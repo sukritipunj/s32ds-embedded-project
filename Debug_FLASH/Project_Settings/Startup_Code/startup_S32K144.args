@@ -1,0 +1,7 @@
+-c
+-I"C:/Users/nxg01634/workspaceS32DS.3.5_S32K/suk_TOUCH/include"
+-x assembler-with-cpp
+-DSTART_FROM_FLASH
+-g3
+-mcpu=cortex-m4
+-specs=nosys.specs
